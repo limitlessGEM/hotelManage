@@ -10,6 +10,10 @@
 # 使用技术
 1. 后端：SpringBoot MyBatis
 
+# 使用技术
+扫描二维码或搜索"源码宇宙"关注公众号回复1029获取此项目最新代码
+![qrcode_for_gh_0762c730fc9d_258](https://user-images.githubusercontent.com/106735732/171599237-35786695-4302-4d3f-a9ca-273478b4437a.jpg)
+
 # 运行截图
 ![1649393834(1)](https://user-images.githubusercontent.com/106735732/171598115-a534cfa3-823a-4df5-b91f-b5a3f1c8e7f4.jpg)
 ![1649393674(1)](https://user-images.githubusercontent.com/106735732/171598121-cc9c7655-516a-4ead-a6c2-84173790a296.jpg)
